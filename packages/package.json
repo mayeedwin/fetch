@@ -1,0 +1,24 @@
+{
+  "name": "fetch",
+  "description": "Fetch API package",
+  "version": "0.0.1",
+  "main": "Fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mayeedwin/fetch.git"
+  },
+  "keywords": [
+    "fetch",
+    "fetch api",
+    "maye edwin"
+  ],
+  "author": "Maye Edwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayeedwin/fetch/issues"
+  },
+  "homepage": "https://github.com/mayeedwin/fetch"
+}
