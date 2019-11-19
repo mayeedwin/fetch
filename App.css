@@ -10,6 +10,10 @@ h1 {
   color: #373fff;
 }
 
+.users {
+  margin: 20px;
+}
+
 .name {
   color : #222;
   font-size : 17px;
