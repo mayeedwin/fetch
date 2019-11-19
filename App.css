@@ -1,0 +1,30 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: italic;
+  color: #373fff;
+}
+
+.name {
+  color : #222;
+  font-size : 17px;
+  font-weight: bold;
+}
+
+.bio {
+  font-size : 15px;
+}
+
+.country {
+  width : fit-content;
+  padding : 7px;
+  font-size : 12px;
+  background-color: #ccc;
+  color: #222;
+  border-radius: 7px;
+}
