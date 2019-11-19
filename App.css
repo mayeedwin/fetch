@@ -7,7 +7,7 @@ body {
 
 h1 {
   font-style: italic;
-  color: #373fff;
+  color: dimgray;
 }
 
 .users {
@@ -15,19 +15,25 @@ h1 {
 }
 
 .name {
-  color : #222;
-  font-size : 17px;
+  color: #222;
+  font-size: 17px;
   font-weight: bold;
 }
 
+.username {
+  font-weight: bold;
+  font-style: italic;
+  color:dimgray;
+}
+
 .bio {
-  font-size : 15px;
+  font-size: 15px;
 }
 
 .country {
-  width : fit-content;
-  padding : 7px;
-  font-size : 12px;
+  width: fit-content;
+  padding: 7px;
+  font-size: 12px;
   background-color: #ccc;
   color: #222;
   border-radius: 7px;
