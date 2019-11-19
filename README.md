@@ -18,15 +18,19 @@ CSS files add styling rules to your content.
 
 ### ⛱ App.js
 
-Our `module` import main script. The data is rendered from this file too. 
+Our `module` import main script. The data is rendered from this file too.
 
-### ⛱ ``./modules/``
+### ⛱ `./modules/`
 
 We have our Fetch module here, `Fetch.js`
 
-### ⛱ ``./data/``
+### ⛱ `./data/`
 
 Directory with our users profiles, in `Users.json`. Feel free to add more data into it.
+
+### ⛱ View source
+
+Play around with the Glitch App [by remixing it](https://javascript-fetch.glitch.me/).
 
 ### ⛱ assets
 
