@@ -2,14 +2,35 @@
   {
     "name": "Maye Edwin",
     "username": "mayeedwin",
-    "bio": "Software Developer, Web.",
+    "bio": "Developer Advocate, Individual.",
     "country": "Kenya"
   },
 
   {
-    "name": "Lisa Adisa",
-    "username": "lisaadisa",
-    "bio": "Developer Advocate, Individual",
-    "country": "United Kingdom"
+    "name": "Mike Geyser",
+    "username": "mikegeyser",
+    "bio": "Software Engineer, BBD.",
+    "country": "South Africa"
+  },
+
+  {
+    "name": "Sundar Pichai",
+    "username": "sundarpichai",
+    "bio": "CEO, Google.",
+    "country": "United States of America"
+  },
+
+  {
+    "name": "Frank Tamre",
+    "username": "franktamre",
+    "bio": "Founder, Early Camp.",
+    "country": "Kenya"
+  },
+
+  {
+    "name": "Satya Nadella",
+    "username": "satyanadella",
+    "bio": "CEO, Microsoft.",
+    "country": "United States of America"
   }
 ]
